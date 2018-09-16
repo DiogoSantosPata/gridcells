@@ -7,3 +7,5 @@ Here we provide Python and JavaScript code of grid cells networks using low-cont
 You can reuse it to conduct your own computational neuroscience experiment or to implement it on a mobile robot. In fact, the following grid cells are actually running on your browser... if you are using a smartphone you can easily provide your device's accelerometer and gyroscope data to reproduce grid cells in the real world.
 
 
+Give it a try:
+http://diogosantospata.com/gridcells/
